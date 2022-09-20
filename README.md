@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ifarooq09
+- 👋 Hi, I’m @Ibrahim Farooq
 - 👀 I’m interested in coding, googling and reading
 - 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on various web application development
