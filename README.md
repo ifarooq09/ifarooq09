@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibrahim Farooq
 - 👀 I’m interested in coding, googling and reading
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently working in the javascript / typescript based frameworks and libraries both frontend and backend
 - 💞️ I’m looking to collaborate on various web application development
 - 📫 How to reach me ifarooq9@gmail.com
 
